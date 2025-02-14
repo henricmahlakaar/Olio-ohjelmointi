@@ -8,7 +8,7 @@ public:
     Student();
     Student(string,int);
     void setAge(int);
-    void setName(string ageOfStudent);
+    void setName(string);
     string getName();
     int getAge();
     void printStudentInfo();
