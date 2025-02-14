@@ -84,6 +84,6 @@ int main ()
             break;
         }
         }
-    }while (selection != 5);
+    }while (selection < 5);
         return 0;
 }
